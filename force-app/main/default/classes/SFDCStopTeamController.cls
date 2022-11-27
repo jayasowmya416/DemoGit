@@ -10,6 +10,7 @@ public class SFDCStopTeamController {
 
     public class Contributor {
         //comment
+        //This is my DemoGit
         public String name;
         public String picURL;
         public Date contributionDate;
